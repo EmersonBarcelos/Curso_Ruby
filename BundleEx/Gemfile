@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+ 
+gem 'os'
+
+#Aqui pode ser listado todas as gems que serão instaladas para o projeto
+#Rode o comando bundle dentro da pasta contendo o Gemfile
